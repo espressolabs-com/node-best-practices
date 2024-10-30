@@ -1,6 +1,6 @@
 [✔]: assets/images/checkbox-small-blue.png
 
-# Node.js Best Practices
+# Espresso Labs - Node.js Best Practices
 
 <h1 align="center">
   <img src="assets/images/banner-2.jpg" alt="Node.js Best Practices"/>
@@ -13,21 +13,12 @@
 </div>
 
 <br/>
-
-[<img src="assets/images/twitter.svg" width="16" height="16" alt="" />](https://twitter.com/nodepractices/) **Follow us on Twitter!** [**@nodepractices**](https://twitter.com/nodepractices/)
-
-<br/>
-
-Read in a different language: [![CN](./assets/flags/CN.png)**CN**](./README.chinese.md), [![FR](./assets/flags/FR.png)**FR**](./README.french.md), [![BR](./assets/flags/BR.png)**BR**](./README.brazilian-portuguese.md), [![RU](./assets/flags/RU.png)**RU**](./README.russian.md), [![PL](./assets/flags/PL.png)**PL**](./README.polish.md), [![JA](./assets/flags/JA.png)**JA**](./README.japanese.md), [![EU](./assets/flags/EU.png)**EU**](./README.basque.md) [(![ES](./assets/flags/ES.png)**ES**, ![HE](./assets/flags/HE.png)**HE**, ![KR](./assets/flags/KR.png)**KR** and ![TR](./assets/flags/TR.png)**TR** in progress! )](#translations)
+- 🚨 Found anything that should be changed? Please talk about it with your manager and let's go!
 
 <br/>
-
-# 🎊 2024 edition is here!
 
 - **🛰 Modernized to 2024**: Tons of text edits, new recommended libraries, and some new best practices
-
 - **✨ Easily focus on new content**: Already visited before? Search for `#new` or `#updated` tags for new content only
-
 - **🔖 Curious to see examples? We have a starter**: Visit [Practica.js](https://github.com/practicajs/practica), our application example and boilerplate (beta) to see some practices in action
 
 <br/><br/>
@@ -39,12 +30,6 @@ Read in a different language: [![CN](./assets/flags/CN.png)**CN**](./README.chin
 **2. It is the largest compilation, and it is growing every week -** currently, more than 80 best practices, style guides, and architectural tips are presented. New issues and pull requests are created every day to keep this live book updated. We'd love to see you contributing here, whether that is fixing code mistakes, helping with translations, or suggesting brilliant new ideas. See our [writing guidelines here](./.operations/writing-guidelines.md)
 
 **3. Best practices have additional info -** most bullets include a **🔗Read More** link that expands on the practice with code examples, quotes from selected blogs, and more information
-
-<br/><br/>
-
-# By Yoni Goldberg
-
-### Learn with me: As a consultant, I engage with worldwide teams on various activities like workshops and code reviews. 🎉AND... Hold on, I've just launched my [beyond-the-basics testing course, which is on a 🎁 limited-time sale](https://testjavascript.com/) until August 7th
 
 <br/><br/>
 
